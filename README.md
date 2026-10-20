@@ -4,7 +4,7 @@
 
 Build a full stack web application including AI, and a well defined structure with easy navigation for users to get a full resource list and learn about a specific topic.
 
-## Required to add the how to use the project though
+<!--Required to add the how to use the project though-->
 
 ## Requirements
 
